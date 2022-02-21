@@ -27,7 +27,7 @@ $ sudo docker run musicplayer
 - `SESSION`: Pyrogram string session. You can generate from [here](https://replit.com/@AsmSafone/genStr).
 - `SUDO_USERS`: ID of sudo users (separate multiple ids with space).
 - `PREFIX`: Commad prefixes (separate multiple prefix with space). Eg: `! /`
-- `LANGUAGE`: An [available](#languages) bot language (can change it anytime). Default: `en`
+- `LANGUAGE`: An [available](#languages) bot language (can change it anytime). Default: `tr`
 - `CUSTOM_QUALITY`: Custom stream quality for the userbot in vc. Default: `high`
 
 ## 📄 <a name="commands"></a>Commands
